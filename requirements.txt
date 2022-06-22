@@ -1,0 +1,9 @@
+tk
+pillow
+functools
+tabulate
+tkcalendar
+num2words
+webbrowser
+babel
+pandas
